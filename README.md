@@ -2,7 +2,6 @@
 
 A continuación todo lo necesario para la instalación y ejecución del trabajo práctico.
 ## Instalación
-**Ubicacion:** `cd /home/utnso`
 
 **Clonar repositorio:** 
 
