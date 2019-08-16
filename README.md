@@ -1,6 +1,6 @@
 # Lissandra - FS
 
-A continuación todo lo necesario para la instalación y ejecución del trabajo práctico.
+A continuación todo lo necesario para la instalación y ejecución del proyecto.
 ## Instalación
 
 **Clonar repositorio:** 
