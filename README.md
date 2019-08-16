@@ -1,4 +1,4 @@
-# Lissandra - Los-Dinosaurios-Del-Libro - 2019 1C
+# Lissandra - FS
 
 A continuación todo lo necesario para la instalación y ejecución del trabajo práctico.
 ## Instalación
