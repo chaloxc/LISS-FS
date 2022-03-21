@@ -1,7 +1,6 @@
-# Lissandra - Los-Dinosaurios-Del-Libro - 2019 1C
+# Lissandra
 
-A continuación todo lo necesario para la instalación y ejecución del trabajo práctico.
-## Instalación
+## Instrucciones de instalación
 **Ubicacion:** `cd /home/utnso`
 
 **Clonar repositorio:** 
@@ -17,8 +16,7 @@ A continuación todo lo necesario para la instalación y ejecución del trabajo 
 
     cd tp-2019-1c-Los-Dinosarios-Del-Libro/creacion_LFS/Debug
     ./creacion_LFS [cant_bloques] [size_bloques] [magic_number]   
-    
- export LD_LIBRARY_PATH=/home/utnso/tp-2019-1c-Los-Dinosaurios-Del-Libro/global/Debug
+    export LD_LIBRARY_PATH=/home/utnso/tp-2019-1c-Los-Dinosaurios-Del-Libro/global/Debug
 
 ## Ejecución de los  módulos
  LFS:
